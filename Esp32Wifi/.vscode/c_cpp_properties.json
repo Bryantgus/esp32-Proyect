@@ -10,6 +10,8 @@
             "includePath": [
                 "c:/Users/EJ/workspace/esp32Proyect/Esp32Wifi/include",
                 "c:/Users/EJ/workspace/esp32Proyect/Esp32Wifi/src",
+                "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
+                "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -218,7 +220,6 @@
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src",
@@ -236,7 +237,6 @@
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                 "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 ""
@@ -246,6 +246,8 @@
                 "path": [
                     "c:/Users/EJ/workspace/esp32Proyect/Esp32Wifi/include",
                     "c:/Users/EJ/workspace/esp32Proyect/Esp32Wifi/src",
+                    "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
+                    "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -454,7 +456,6 @@
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                    "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src",
@@ -472,14 +473,13 @@
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                     "C:/Users/EJ/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     ""
                 ]
             },
             "defines": [
-                "PLATFORMIO=60115",
+                "PLATFORMIO=60116",
                 "ARDUINO_ESP32_DEV",
                 "HAVE_CONFIG_H",
                 "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\"",
